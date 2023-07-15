@@ -4,4 +4,4 @@
 # Do not ignore these files:
 !.gitignore
 !*.py
-!*.ipnyb
+!*.ipynb
