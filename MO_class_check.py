@@ -139,7 +139,7 @@ mo_list_force = [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1]
 ]"""
 
 models = [
-    "wizardlm-13b-v1.1-superhot-8k.ggmlv3.q4_0.bin",
+    "nous-hermes-13b.ggmlv3.q4_0.bin",
 ]
 message_types = [messages_simple, messages_few, messages_cot]
 message_type_strings = ["simple", "few", "cot"]
